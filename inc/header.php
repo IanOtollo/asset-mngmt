@@ -24,7 +24,10 @@ function require_login() {
 <body>
 <nav class="topbar">
   <div class="container">
-    <a href="index.php" class="brand">AssetMgmt</a>
+    <a href="/asset-mngmt/index.php" class="brand">
+  <img src="/asset-mngmt/images/busia-logo.png" alt="Busia County Logo" class="logo">
+  AssetMgmt
+</a>
     <div class="navlinks">
       <a href="index.php">Assets</a>
       <a href="asset_add.php">Add</a>
